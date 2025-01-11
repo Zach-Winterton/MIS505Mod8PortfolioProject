@@ -1,0 +1,19 @@
+{
+    "columns": [
+        {
+            "name": "Year",
+            "data_type": "INTEGER",
+            "description": "The year corresponding to the data record (2001–2020)."
+        },
+        {
+            "name": "Primary Enrollment",
+            "data_type": "REAL",
+            "description": "The total primary school enrollment in Uzbekistan for the given year."
+        },
+        {
+            "name": "GDP",
+            "data_type": "REAL",
+            "description": "The GDP per capita in current US dollars for Uzbekistan in the given year."
+        }
+    ]
+}
